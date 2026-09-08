@@ -23,6 +23,7 @@ Meu foco atual é **desenvolvimento Backend**, com ênfase na **plataforma Java*
 **Linguagens**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -38,6 +39,9 @@ Meu foco atual é **desenvolvimento Backend**, com ênfase na **plataforma Java*
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ---
 
@@ -45,7 +49,9 @@ Meu foco atual é **desenvolvimento Backend**, com ênfase na **plataforma Java*
 
 - Certificação **OCP Java SE 21** (em andamento)
 - **Spring Boot** e construção de **APIs REST**
+- **.NET / ASP.NET Core** e APIs com C#
 - Banco de dados relacionais (**SQL**, PostgreSQL, MySQL)
+- Mensageria e cache (**RabbitMQ**, **Redis**)
 - Boas práticas: **Clean Code**, padrões de projeto e versionamento com **Git**
 
 ---
