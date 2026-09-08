@@ -65,9 +65,17 @@ Meu foco atual é **desenvolvimento Backend**, com ênfase na **plataforma Java*
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-bice-phi-17.vercel.app/api?username=EliasFaria007&show_icons=true&locale=pt-br&hide=contribs&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=FF00F6&border_color=ffffff&custom_title=Minhas%20Estat%C3%ADsticas" />
-  <img height="180em" src="https://github-readme-stats-bice-phi-17.vercel.app/api/top-langs/?username=EliasFaria007&layout=compact&langs_count=8&custom_title=Tecnologias&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff" />
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-bice-phi-17.vercel.app/api?username=EliasFaria007&show_icons=true&locale=pt-br&hide=contribs&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=FF00F6&border_color=ffffff&custom_title=Minhas%20Estat%C3%ADsticas" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-bice-phi-17.vercel.app/api?username=EliasFaria007&show_icons=true&locale=pt-br&hide=contribs&bg_color=ffffff&title_color=0F172A&text_color=334155&icon_color=FF00F6&border_color=e2e8f0&custom_title=Minhas%20Estat%C3%ADsticas" />
+    <img src="https://github-readme-stats-bice-phi-17.vercel.app/api?username=EliasFaria007&show_icons=true&locale=pt-br&hide=contribs&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=FF00F6&border_color=ffffff&custom_title=Minhas%20Estat%C3%ADsticas" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-bice-phi-17.vercel.app/api/top-langs/?username=EliasFaria007&layout=compact&langs_count=8&custom_title=Tecnologias&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-bice-phi-17.vercel.app/api/top-langs/?username=EliasFaria007&layout=compact&langs_count=8&custom_title=Tecnologias&bg_color=ffffff&title_color=0F172A&text_color=334155&border_color=e2e8f0" />
+    <img src="https://github-readme-stats-bice-phi-17.vercel.app/api/top-langs/?username=EliasFaria007&layout=compact&langs_count=8&custom_title=Tecnologias&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff" />
+  </picture>
 </div>
 
 ---
